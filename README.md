@@ -50,10 +50,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome">Coming soon</a>
-<a href="https://www.linkedin.com/in/phucnguyenhoangle/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/gin.ttd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:phucnh.le@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/phucnguyenhoangle/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Phuc%20Le-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/gin.ttd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gin.ttd-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:phucnh.le@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-phucnh.le@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Phuc Le](https://github.com/phucle-gin)
