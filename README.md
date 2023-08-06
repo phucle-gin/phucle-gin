@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/phucnguyenhoangle/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Phuc%20Le-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/gin.ttd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gin.ttd-blue?style=flat-square&logo=instagram"></a>
+<!-- <a href="https://www.instagram.com/gin.ttd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gin.ttd-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:phucnh.le@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-phucnh.le@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
