@@ -1,54 +1,23 @@
-<h2> Hey there! I'm Henry.</h2>
+### hey, I'm Henry
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+I write software for a living and design things for fun.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick tricks.
-- 🎓 &nbsp; Graduating ICT at Swinburne - University of Technology.
-- 💼 &nbsp; Working as a Self-Taught Software Developer.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+Started out self-taught, picked up an ICT degree at Swinburne along the way, and now spend most days as a full-stack dev, usually somewhere between a PHP backend and a React frontend, figuring out why two systems won't talk to each other.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+Things I'm into lately:
+- making slow, manual workflows disappear
+- system design and cloud stuff I don't fully understand yet
+- using AI tools without letting them write my personality for me
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+Outside of work I like exploring AI and automation tools, mostly to see what they're actually good for.
 
+**Usually working with**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,wordpress,js,ts,react,tailwind,nodejs&perline=8" />
 <br/>
+<img src="https://skillicons.dev/icons?i=mysql,redis,aws,git,github,githubactions,vscode,ps,ai&perline=9" />
 
-<a href="https://github.com/phucle-gin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phucle-gin&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucle-gin&theme=buefy&layout=compact" />
-</a>
+**Find me**
+[LinkedIn](https://www.linkedin.com/in/phucnguyenhoangle/) · [henryle.nh@gmail.com](mailto:henryle.nh@gmail.com)
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me or Probably A Casual Coffe Time :3 </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/phucnguyenhoangle/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Phuc%20Le-blue?style=flat-square&logo=linkedin"></a>
-<!-- <a href="https://www.instagram.com/gin.ttd/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gin.ttd-blue?style=flat-square&logo=instagram"></a> -->
-<a href="mailto:phucnh.le@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-phucnh.le@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-⭐️ From [Phuc Le](https://github.com/phucle-gin)
+<sub>coffee chats welcome :3</sub>
